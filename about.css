@@ -418,3 +418,17 @@ body, html{
   .back img{
       height: 140px;
   }
+
+  
+    #b7 {
+      position: absolute;
+      right: 370px; 
+      top: 500px;   
+      width: 333px;
+      height: 138px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      background: transparent;
+      border: 0px solid black;
+      background-image: url(img/bgpaper.png);
+    }
